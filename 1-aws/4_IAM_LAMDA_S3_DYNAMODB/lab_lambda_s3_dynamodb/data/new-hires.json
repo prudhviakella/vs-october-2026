@@ -1,0 +1,4 @@
+[
+  {"emp_id": "E1004", "name": "Kiran", "department": "IT",      "city": "Bangalore", "leave_balance": 24, "rating": 4.0},
+  {"emp_id": "E1005", "name": "Meera", "department": "HR",      "city": "Chennai",   "leave_balance": 24, "rating": 4.2}
+]

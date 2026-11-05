@@ -1,0 +1,5 @@
+[
+  {"emp_id": "E1001", "name": "Anita", "department": "HR",      "city": "Hyderabad", "leave_balance": 18, "rating": 4.5},
+  {"emp_id": "E1002", "name": "Ravi",  "department": "Finance", "city": "Mumbai",    "leave_balance": 12, "rating": 4.1},
+  {"emp_id": "E1003", "name": "Sana",  "department": "IT",      "city": "Pune",      "leave_balance": 20, "rating": 4.8}
+]
