@@ -1,0 +1,11 @@
+class Employee:
+    def __init__(self, employee_id, name, department):
+        self.employee_id = employee_id
+        self.name = name
+        self.department = department
+
+    def __str__(self):
+        return f"Employee ID: {self.employee_id}, Name: {self.name}, department: {self.department}"
+
+    def __repr__(self):
+        return f"Employee(employee_id={self.employee_id}, name='{self.name}', department='{self.department}')"
